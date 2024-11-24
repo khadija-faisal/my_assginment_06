@@ -27,18 +27,10 @@ function HomePage() {
         </div>
         <div className=" flex sm:w-1/2">
           <Image
-            className=" hidden sm:block "
             src={"/images/Image.svg"}
             alt="hero_image"
             width={710}
             height={900}
-          />
-          <Image
-            className=" block sm:hidden"
-            src={"/images/Image2.svg"}
-            alt="hero_image"
-            width={628}
-            height={390}
           />
         </div>
       </main>
