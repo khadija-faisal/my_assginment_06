@@ -34,7 +34,7 @@ function HomePage() {
             height={900}
           />
           <Image
-            className=" sm:hidden"
+            className="block sm:hidden"
             src={"/images/Image2.svg"}
             alt="hero_image"
             width={628}
