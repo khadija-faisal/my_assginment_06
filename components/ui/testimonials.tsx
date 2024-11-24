@@ -25,9 +25,9 @@ function Testimonials() {
               />
             </div>
             <p className=" w-[100%] sm:w-[80%]">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
-              mi quis viverra ornare."
+              mi quis viverra ornare.
             </p>
             <div className=" flex gap-2">
               <span>
@@ -57,9 +57,9 @@ function Testimonials() {
               />
             </div>
             <p className=" w-[80%]">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
-              mi quis viverra ornare."
+              mi quis viverra ornare.
             </p>
             <div className=" flex gap-2">
               <span>
@@ -87,9 +87,9 @@ function Testimonials() {
               />
             </div>
             <p className=" w-[80%]">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
-              mi quis viverra ornare."
+              mi quis viverra ornare.
             </p>
             <div className=" flex gap-2">
               <span>
